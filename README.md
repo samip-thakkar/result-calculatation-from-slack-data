@@ -1,2 +1,2 @@
-# result-calculatation-from-slack-data
-Calculate students total points from text mining of messages of Slack workspace. Create graph of result and mail students the result.
+# result-calculatation-from-slack-data.
+Extract data of the students from Slack work space. Extract the user_id and number of points from all the messages. Calculate total points for all students and prepare a graphical representation and mail the students their results.
