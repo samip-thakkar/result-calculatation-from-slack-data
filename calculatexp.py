@@ -6,12 +6,12 @@ from matplotlib import cm
 
 print("Getting xps from messages")
 url = "https://slack.com/api/channels.history"
-querystring = {"token":"xoxp-120694817845-119928746705-832951970739-7acefcf0b11abd8703106b1d19520ff5","channel":"CJWDYLS2Z","pretty":"1"}
+querystring = {"token":"{your token}","channel":"CJWDYLS2Z","pretty":"1"}
 headers = {
     'User-Agent': "PostmanRuntime/7.17.1",
     'Accept': "*/*",
     'Cache-Control': "no-cache",
-    'Postman-Token': "4da27782-6281-449e-b86a-76677afa59d4,22e99d0e-2672-4238-bc4d-7cac556d71b0",
+    'Postman-Token': "{postman-token}",
     'Host': "slack.com",
     'Accept-Encoding': "gzip, deflate",
     'Connection': "keep-alive",
@@ -52,12 +52,12 @@ for i in range(len(ress["messages"])):
 print("Getting Names of users")       
 
 url = "https://slack.com/api/users.list"
-querystring = {"token":"xoxp-120694817845-119928746705-832951970739-7acefcf0b11abd8703106b1d19520ff5","pretty":"1"}
+querystring = {"token":"{your-token}","pretty":"1"}
 headers = {
     'User-Agent': "PostmanRuntime/7.17.1",
     'Accept': "*/*",
     'Cache-Control': "no-cache",
-    'Postman-Token': "abd3cf4e-b8d9-4d1f-a0e8-218ba3cae074,4379f0fd-3781-4f33-855d-983f9424e29b",
+    'Postman-Token': "{postman token}",
     'Host': "slack.com",
     'Accept-Encoding': "gzip, deflate",
     'Connection': "keep-alive",
