@@ -1,0 +1,115 @@
+[
+    {
+        "client_msg_id": "095224dc-80f5-4e26-bbbc-fac73f801d9e",
+        "type": "message",
+        "text": "Please award <@WFGUPR8AC> 3xp for critviz errors",
+        "user": "WFGT9AX8R",
+        "ts": "1574192793.000700",
+        "team": "T3JLEQ1QV",
+        "user_team": "T3JLEQ1QV",
+        "source_team": "T3JLEQ1QV",
+        "user_profile": {
+            "avatar_hash": "2d04a2b7aad4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-03\/516426160005_2d04a2b7aad4e7b299d9_72.jpg",
+            "first_name": "Erik",
+            "real_name": "Erik Cesek",
+            "display_name": "ecesek",
+            "team": "T3JLEQ1QV",
+            "name": "ecesek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d494bc11-6706-4779-bbed-47b30a64902b",
+        "type": "message",
+        "text": "Please award 3xp to <@WFHDFHN9G> <@WFK1LG10W> <@WFHE0RXTN> <@WFH1X9THP> <@WFK5BD42J> <@WG4UUBZRC> <@WFGMCG9KJ> <@WFH46THFB> <@WFGLN3BUY> <@WFHGYUHV2> <@WFGUPR8AC> <@WFGSVBTHN> <@WFHAGV48L> <@WG2U77MRP> <@WFJQ4G66A> <@WFGPBLQDN> <@WFHJA3J0M> <@WFHMUAVQS> <@WFHDP0BQU> <@WFK1F9H2S> <@WJLAX8SHL> <@WFGUN6S2C> for professional dress",
+        "user": "WFH8F3F8T",
+        "ts": "1574207840.004500",
+        "team": "T3JLEQ1QV",
+        "user_team": "T3JLEQ1QV",
+        "source_team": "T3JLEQ1QV",
+        "user_profile": {
+            "avatar_hash": "366200fca3a2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-19\/733336765047_366200fca3a26db5f132_72.jpg",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Kabbourg",
+            "display_name": "abrow106",
+            "team": "T3JLEQ1QV",
+            "name": "abrow106",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "WFH8F3F8T",
+            "ts": "1574210837.000000"
+        }
+    },
+    {
+        "client_msg_id": "4cf1d202-f73d-4237-8f2e-1a5b31fdfda4",
+        "type": "message",
+        "text": "Please award 3xp to <@WFGUWFDH6>   <@WFHT1GYTX> <@WFHG3U144> <@WFH53S78R> <@WFGUK4K40> <@WFHP5FKH8> <@WFHDAERCL> <@WFHJ1NV45> <@WFHC9B3M0> <@WFGSEDVLZ> <@WL6F1PD4N> <@WFHEME82W> <@WFGRN9DDF> <@WFHCDBN1J> <@WFHU2GY2Z> <@WFHF3ULLU> <@WFGPAPV6U> <@WFK66TKE2> for professional dress",
+        "user": "WFHC473JP",
+        "ts": "1574208758.007900",
+        "team": "T3JLEQ1QV",
+        "user_team": "T3JLEQ1QV",
+        "source_team": "T3JLEQ1QV",
+        "user_profile": {
+            "avatar_hash": "4a752b0143b8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-09\/520609342213_4a752b0143b8d3d46655_72.jpg",
+            "first_name": "Daniel",
+            "real_name": "Daniel Lee Allen",
+            "display_name": "dlalle12",
+            "team": "T3JLEQ1QV",
+            "name": "dlalle12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "WFHC473JP",
+            "ts": "1574210929.000000"
+        }
+    },
+    {
+        "client_msg_id": "13a09d03-6370-4d7a-a75b-1ddff586192f",
+        "type": "message",
+        "text": "Please award 3xp to <@WFGUK4K40> <@WFHDFHN9G> <@WFK1LG10W> <@WFH46THFB> <@WFH8Y2E91> for class participation",
+        "user": "WFH8F3F8T",
+        "ts": "1574210999.010300",
+        "team": "T3JLEQ1QV",
+        "user_team": "T3JLEQ1QV",
+        "source_team": "T3JLEQ1QV",
+        "user_profile": {
+            "avatar_hash": "366200fca3a2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-19\/733336765047_366200fca3a26db5f132_72.jpg",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Kabbourg",
+            "display_name": "abrow106",
+            "team": "T3JLEQ1QV",
+            "name": "abrow106",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "71e7cb20-049b-4fe6-9036-2bdf74b50777",
+        "type": "message",
+        "text": "Please award <@WFH46THFB> 3xp for article errors.",
+        "user": "WFGT9AX8R",
+        "ts": "1574215443.011100",
+        "team": "T3JLEQ1QV",
+        "user_team": "T3JLEQ1QV",
+        "source_team": "T3JLEQ1QV",
+        "user_profile": {
+            "avatar_hash": "2d04a2b7aad4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-03\/516426160005_2d04a2b7aad4e7b299d9_72.jpg",
+            "first_name": "Erik",
+            "real_name": "Erik Cesek",
+            "display_name": "ecesek",
+            "team": "T3JLEQ1QV",
+            "name": "ecesek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]
